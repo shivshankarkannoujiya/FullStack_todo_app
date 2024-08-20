@@ -1,4 +1,4 @@
-## Todo App
+## Todo App 📋
 This project contain Simple TODO application
 it has following features:-
 
